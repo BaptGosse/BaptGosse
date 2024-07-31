@@ -42,7 +42,8 @@
 📜[🇫🇷] Ma préférée : Le web est plus une invention sociale que technologique. Je l’ai conçu pour qu’il ait un effet social – aider les gens à travailler ensemble – et non comme un jouet technologique. — Tim Berners-Lee, Weaving the Web, 1999
 <br>📜[🇺🇸] My favorite : The Web is more of a social invention than a technological one. I designed it to have a social effect — to help people work together — not as a technological toy. — Tim Berners-Lee, Weaving the Web, 1999
 
-<br><br>🎲 Une aléatoire / One random : ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br><br>🎲 Une aléatoire / One random :
+<br><br>![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 # 🔝 Les repos auxquels j'ai le plus contribué / Top contributed repo
 
