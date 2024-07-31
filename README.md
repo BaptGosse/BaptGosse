@@ -2,26 +2,25 @@
 
 # 💫 À propos de moi / About Me:
 [🇫🇷] Je suis un développeur français passionné. Mon objectif est d'aider des projets très prometteurs et d'apporter à mon humble échelle une contribution au monde du développement, qui j'espère pourra aider plus d'un.
-[🇺🇸] I am a passionate French developer. My goal is to help very promising projects and to bring on my humble scale a contribution to the world of development, which I hope can help more than one.
+<br>[🇺🇸] I am a passionate French developer. My goal is to help very promising projects and to bring on my humble scale a contribution to the world of development, which I hope can help more than one.
 
 # 🏫 Mes études / My studies
-
 [🇫🇷] Je dispose d'un Baccalauréat Général admis avec Mention Bien. Maintenant, je suis en première année de BUT Informatique à l'IUT d'Ifs.
-[🇫🇷] I have a General Baccalaureate admitted with Honors. Now, I am in the first year of BUT Computer Science at the IUT of Ifs.
+<br>[🇺🇸] I have a General Baccalaureate admitted with Honors. Now, I am in the first year of BUT Computer Science at the IUT of Ifs.
 
 # ⌨️ Mes projets en cours / My current projects
 
 🔭[🇫🇷] Je travaille actuellement sur un projet collaboratif appelé VFF Project : VFF - Voies Ferrées de France - https://www.vff-project.fr/
-🔭[🇺🇸] I’m currently working on a collaborative project called VFF Project : VFF - Railways of France - https://www.vff-project.us/
-
+<br>🔭[🇺🇸] I’m currently working on a collaborative project called VFF Project : VFF - Railways of France - https://www.vff-project.us/
+<br>
 🎮[🇫🇷] Je suis en train de créer un jeu vidéo avec Unreal Engine 5, vous allez voir ça d'ici quelques mois : )
-🎮[🇺🇸] I'm currently creating a video game with Unreal Engine 5, you'll see that in a few months : )
-
+<br>🎮[🇺🇸] I'm currently creating a video game with Unreal Engine 5, you'll see that in a few months : )
+<br>
 🌱[🇫🇷] J'apprends actuellement le C++, C# et JavaScript
-🌱[🇺🇸] I’m currently learning C++, C# and JavaScript
-
+<br>🌱[🇺🇸] I’m currently learning C++, C# and JavaScript
+<br>
 💬[🇫🇷] Posez-moi toutes vos questions, j'essaierai d'y répondre du mieux que je peux
-💬[🇺🇸] Ask me about whatever you want, I will try to answer them as best I can
+<br>💬[🇺🇸] Ask me about whatever you want, I will try to answer them as best I can
 
 
 # 🌐 Réseaux sociaux / Socials :
@@ -38,14 +37,14 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BaptGosse&theme=one_dark_pro&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BaptGosse&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-# ✍️ Citations de développeurs célèbres :
+# ✍️ Citations de développeurs célèbres / Quotes from famous developers :
 
-Ma préférée : Le web est plus une invention sociale que technologique. Je l’ai conçu pour qu’il ait un effet social – aider les gens à travailler ensemble – et non comme un jouet technologique. — Tim Berners-Lee, Weaving the Web, 1999
-My favorite : The Web is more of a social invention than a technological one. I designed it to have a social effect — to help people work together — not as a technological toy. — Tim Berners-Lee, Weaving the Web, 1999
+📜[🇫🇷] Ma préférée : Le web est plus une invention sociale que technologique. Je l’ai conçu pour qu’il ait un effet social – aider les gens à travailler ensemble – et non comme un jouet technologique. — Tim Berners-Lee, Weaving the Web, 1999
+<br>📜[🇺🇸] My favorite : The Web is more of a social invention than a technological one. I designed it to have a social effect — to help people work together — not as a technological toy. — Tim Berners-Lee, Weaving the Web, 1999
 
-Une aléatoire / One random : ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br><br>🎲 Une aléatoire / One random : ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-# 🔝 Top Contributed Repo
+# 🔝 Les repos auxquels j'ai le plus contribué / Top contributed repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=BaptGosse&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
