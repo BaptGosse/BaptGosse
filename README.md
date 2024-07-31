@@ -4,7 +4,7 @@
 [🇫🇷] Je suis un développeur français passionné. Mon objectif est d'aider des projets très prometteurs et d'apporter à mon humble échelle une contribution au monde du développement, qui j'espère pourra aider plus d'un.
 [🇺🇸] I am a passionate French developer. My goal is to help very promising projects and to bring on my humble scale a contribution to the world of development, which I hope can help more than one.
 
-# 🏫 Mes études / MLy studies
+# 🏫 Mes études / My studies
 
 [🇫🇷] Je dispose d'un Baccalauréat Général admis avec Mention Bien. Maintenant, je suis en première année de BUT Informatique à l'IUT d'Ifs.
 [🇫🇷] I have a General Baccalaureate admitted with Honors. Now, I am in the first year of BUT Computer Science at the IUT of Ifs.
