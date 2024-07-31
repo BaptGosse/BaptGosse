@@ -12,14 +12,14 @@
 
 🔭[🇫🇷] Je travaille actuellement sur un projet collaboratif appelé VFF Project : VFF - Voies Ferrées de France - https://www.vff-project.fr/
 <br>🔭[🇺🇸] I’m currently working on a collaborative project called VFF Project : VFF - Railways of France - https://www.vff-project.us/
-<br>
-🎮[🇫🇷] Je suis en train de créer un jeu vidéo avec Unreal Engine 5, vous allez voir ça d'ici quelques mois : )
+
+<br>🎮[🇫🇷] Je suis en train de créer un jeu vidéo avec Unreal Engine 5, vous allez voir ça d'ici quelques mois : )
 <br>🎮[🇺🇸] I'm currently creating a video game with Unreal Engine 5, you'll see that in a few months : )
-<br>
-🌱[🇫🇷] J'apprends actuellement le C++, C# et JavaScript
+
+<br>🌱[🇫🇷] J'apprends actuellement le C++, C# et JavaScript
 <br>🌱[🇺🇸] I’m currently learning C++, C# and JavaScript
-<br>
-💬[🇫🇷] Posez-moi toutes vos questions, j'essaierai d'y répondre du mieux que je peux
+
+<br>💬[🇫🇷] Posez-moi toutes vos questions, j'essaierai d'y répondre du mieux que je peux
 <br>💬[🇺🇸] Ask me about whatever you want, I will try to answer them as best I can
 
 
