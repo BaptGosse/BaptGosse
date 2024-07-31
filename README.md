@@ -42,14 +42,14 @@
 📜[🇫🇷] Ma préférée : Le web est plus une invention sociale que technologique. Je l’ai conçu pour qu’il ait un effet social – aider les gens à travailler ensemble – et non comme un jouet technologique. — Tim Berners-Lee, Weaving the Web, 1999
 <br>📜[🇺🇸] My favorite : The Web is more of a social invention than a technological one. I designed it to have a social effect — to help people work together — not as a technological toy. — Tim Berners-Lee, Weaving the Web, 1999
 
-<br><br>🎲 Une aléatoire / One random :
+<br>🎲 Une aléatoire / One random :
 <br><br>![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 # 🔝 Les repos auxquels j'ai le plus contribué / Top contributed repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=BaptGosse&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
-### 💰 Vous pouvez m'aider en donant / You can help me by Donating
-<br>[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/baptgosse_) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/BaptGosse_) 
+# 💰 Vous pouvez m'aider en donant / You can help me by Donating
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/baptgosse_) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/BaptGosse_) 
 
-###Merci
+#Merci
