@@ -1,4 +1,10 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Baptiste Gosselin - BaptGosse_</h1>
+<h3 align="center">I'm a french developer and</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
 
 <!--
 **BaptGosse/BaptGosse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
